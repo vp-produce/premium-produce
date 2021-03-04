@@ -1,0 +1,45 @@
+body {
+  background-color: black;
+  color: #e1dcdc;
+  font-family: Mono,helvetica;
+  padding: 2rem;
+}
+
+header {
+  margin-bottom: 5rem;
+}
+
+section {
+  margin-bottom: 3rem;
+}
+
+a {
+  color: #F8F8FF;
+  text-decoration: none;
+  transition: 300ms linear;
+}
+a:link {
+  color: #dda4a4;
+  text-decoration: none;
+  transition: 300ms linear;
+}
+a:visited {
+  color: #dda4a4;
+  text-decoration: none;
+  transition: 300ms linear;
+}
+a:hover {
+  color: #e67c7c;
+  text-decoration: none;
+  transition: 300ms linear;
+}
+a:active {
+  color: #e67c7c;
+  text-decoration: none;
+  transition: 300ms linear;
+}
+a:button {
+  color: #F0F8FF;
+  text-decoration: none;
+  transition: 300ms linear;
+}
