@@ -51,3 +51,10 @@ img {
   max-width: 500px;
   max-height: 500px;
 }
+
+ul {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;  
+}
